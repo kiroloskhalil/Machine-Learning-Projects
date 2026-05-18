@@ -19,31 +19,6 @@ TensorFlow.js
 Brain.js
 Math.js
 Chart.js
-Machine-Learning-JavaScript/
-│
-├── Supervised-Learning/
-│   ├── Linear-Regression/
-│   ├── Logistic-Regression/
-│   ├── Decision-Tree/
-│   └── KNN/
-│
-├── Unsupervised-Learning/
-│   ├── K-Means/
-│   ├── PCA/
-│   └── Clustering/
-│
-├── Deep-Learning/
-│   ├── Neural-Networks/
-│   ├── CNN/
-│   └── TensorFlowJS/
-│
-├── Data-Processing/
-│
-├── Utilities/
-│
-├── Datasets/
-│
-└── README.md
 
 📖 Included Topics
 Supervised Learning
