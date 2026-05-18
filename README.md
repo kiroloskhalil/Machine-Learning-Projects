@@ -11,6 +11,7 @@ TensorFlow.js projects
 Real-world AI applications
 Beginner-friendly structure
 Clean and documented JavaScript code
+
 🚀 Technologies Used
 JavaScript (ES6+)
 Node.js
@@ -18,7 +19,6 @@ TensorFlow.js
 Brain.js
 Math.js
 Chart.js
-📂 Repository Structure
 Machine-Learning-JavaScript/
 │
 ├── Supervised-Learning/
@@ -44,6 +44,7 @@ Machine-Learning-JavaScript/
 ├── Datasets/
 │
 └── README.md
+
 📖 Included Topics
 Supervised Learning
 Linear Regression
@@ -65,46 +66,32 @@ Data Normalization
 Feature Engineering
 Model Evaluation
 Data Visualization
+
 ⚙️ Installation
+Clone the repository:            git clone https://github.com/your-username/Machine-Learning-JavaScript.git
+Navigate to the project folder:  cd Machine-Learning-JavaScript
+Install dependencies:            npm install
 
-Clone the repository:
-
-git clone https://github.com/your-username/Machine-Learning-JavaScript.git
-
-Navigate to the project folder:
-
-cd Machine-Learning-JavaScript
-
-Install dependencies:
-
-npm install
 ▶️ Run Projects
+Example:                        node Linear-Regression/app.js
+Or for TensorFlow.js projects:  npm start
 
-Example:
-
-node Linear-Regression/app.js
-
-Or for TensorFlow.js projects:
-
-npm start
 🎯 Goals of This Repository
 Learn Machine Learning using JavaScript
 Build AI projects from scratch
 Understand ML mathematics and logic
 Practice TensorFlow.js development
 Create reusable ML modules and utilities
+
 🤝 Contributions
-
 Contributions, improvements, and new algorithm implementations are welcome.
-
 Fork the repository
 Create a new branch
 Commit your changes
 Open a Pull Request
-📜 License
 
+📜 License
 This project is licensed under the MIT License.
 
 ⭐ Support
-
 If you find this repository useful, consider giving it a star ⭐ to support the project.
